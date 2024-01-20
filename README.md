@@ -1,0 +1,2 @@
+# gen-install
+gentoo
